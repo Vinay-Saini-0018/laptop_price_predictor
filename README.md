@@ -1,12 +1,12 @@
-# 💻 Laptop Price Predictor
+# Laptop Price Predictor
 
 A machine learning web application that predicts laptop prices based on various specifications and features. Get instant price estimates for laptops by entering their configuration details!
 
-## 🌟 Live Demo
+## Live Demo
 
 🔗 **[Try it Live Here](https://lp-predictor-2efd.onrender.com/ )** 
 
-## 📖 About The Project
+## About The Project
 
 This is my first machine learning project that helps users estimate laptop prices based on specifications like brand, processor, RAM, storage, screen size, and more. If you're buying a new laptop , this tool gives you a fair price estimate instantly!
 
@@ -14,7 +14,7 @@ This is my first machine learning project that helps users estimate laptop price
 
 The system uses a **Machine Learning Regression Model** trained on real laptop data to predict prices. Simply enter your laptop's specifications, and the model will analyze the features to give you an accurate price prediction with **87% accuracy**!
 
-## ✨ Features
+## Features
 
 - **Instant Price Prediction**: Get laptop price estimates in seconds
 - **User-Friendly Interface**: Simple form to input laptop specifications
@@ -22,7 +22,7 @@ The system uses a **Machine Learning Regression Model** trained on real laptop d
 - **Real-Time Results**: Immediate predictions based on your input
 - **Multiple Specifications**: Considers brand, processor, RAM, storage, GPU, OS, and more
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** - Core programming language
 - **Flask** - Web framework for the application
@@ -32,14 +32,14 @@ The system uses a **Machine Learning Regression Model** trained on real laptop d
 - **Pickle** - Model serialization
 - **HTML/CSS** - Frontend interface
 
-## 📊 Model Information
+## Model Information
 
 - **Algorithm**: Regression Model (Random Forest/Linear Regression)
 - **Accuracy**: ~87%
 - **Training Data**: Laptop specifications and prices from Kaggle
 - **Features Used**: Brand, Processor Type, RAM, Storage, GPU, Screen Size, Operating System, Weight, etc.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these simple steps to run the project on your local machine:
 
@@ -70,7 +70,7 @@ Make sure you have Python installed on your system. You can download it from [py
    Navigate to http://127.0.0.1:5000/ in your web browser
 ```
 
-## 💡 How to Use
+## How to Use
 
 1. **Open the Application**: Launch the web app in your browser
 2. **Enter Laptop Specs**: Fill in the form with laptop specifications
@@ -85,7 +85,7 @@ Make sure you have Python installed on your system. You can download it from [py
 4. **View Results**: See the estimated laptop price instantly!
 
 
-## 🧠 Development Process
+## Development Process
 
 ### Step-by-Step Process:
 
@@ -114,7 +114,7 @@ Make sure you have Python installed on your system. You can download it from [py
    - Created HTML forms for input
    - Integrated the ML model for real-time predictions
 
-## 🎯 Model Performance
+## Model Performance
 
 - **Training Accuracy**: ~87%
 - **Model Type**: Regression (predicts continuous values)
